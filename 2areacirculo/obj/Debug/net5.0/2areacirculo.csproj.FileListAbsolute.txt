@@ -1,0 +1,16 @@
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\bin\Debug\net5.0\2areacirculo.exe
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\bin\Debug\net5.0\2areacirculo.deps.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\bin\Debug\net5.0\2areacirculo.runtimeconfig.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\bin\Debug\net5.0\2areacirculo.runtimeconfig.dev.json
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\bin\Debug\net5.0\2areacirculo.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\bin\Debug\net5.0\ref\2areacirculo.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\bin\Debug\net5.0\2areacirculo.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\2areacirculo.csprojAssemblyReference.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\2areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\2areacirculo.AssemblyInfoInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\2areacirculo.AssemblyInfo.cs
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\2areacirculo.csproj.CoreCompileInputs.cache
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\2areacirculo.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\ref\2areacirculo.dll
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\2areacirculo.pdb
+G:\Users\Ynullashaa\Documents\Universidad\Semestre 12\Sistemas de Informacion Geograficos\ProgramasSIG\2areacirculo\obj\Debug\net5.0\2areacirculo.genruntimeconfig.cache
