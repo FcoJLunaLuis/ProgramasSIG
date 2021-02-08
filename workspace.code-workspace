@@ -20,6 +20,27 @@
 		},
 		{
 			"path": "7tablas"
+		},
+		{
+			"path": "8vectorpromedio"
+		},
+		{
+			"path": "9vectoraleatorio"
+		},
+		{
+			"path": "10vectorcubo"
+		},
+		{
+			"path": "11vectorsumas"
+		},
+		{
+			"path": "12vectorinverso"
+		},
+		{
+			"path": "13multivector"
+		},
+		{
+			"path": "14vectorestadisticas"
 		}
 	]
 }
