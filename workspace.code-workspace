@@ -41,6 +41,54 @@
 		},
 		{
 			"path": "14vectorestadisticas"
+		},
+		{
+			"path": "15objetos"
+		},
+		{
+			"path": "16cuentabancariav1"
+		},
+		{
+			"path": "17cuentabancariav2"
+		},
+		{
+			"path": "18repasoPOO"
+		},
+		{
+			"path": "19Interface1"
+		},
+		{
+			"path": "20interfaz2"
+		},
+		{
+			"path": "21interaz3"
+		},
+		{
+			"path": "22delegados1"
+		},
+		{
+			"path": "23delegados2"
+		},
+		{
+			"path": "24delegados3"
+		},
+		{
+			"path": "25delegados4"
+		},
+		{
+			"path": "26delegados5"
+		},
+		{
+			"path": "27linq1"
+		},
+		{
+			"path": "28linq2"
+		},
+		{
+			"path": "29linq3"
+		},
+		{
+			"path": "examen1"
 		}
 	]
 }
